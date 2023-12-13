@@ -1,9 +1,8 @@
-![Github Light](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-dk%402x.png#gh-light-mode-only)
-![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
-
 <img alt="Discourse users" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.rapyd.net"> ![Discord](https://img.shields.io/discord/930903327024238622) <br>
 ![Twitter Follow](https://img.shields.io/twitter/follow/rapyddevs?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzqD46wVaSACHkUcB3eCjLg) <br>
 
+![Github Light](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-dk%402x.png#gh-light-mode-only)
+![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
 
 # Resources
 #### A collection of tools and resources to help you get started with the Rapyd API. 
