@@ -1,5 +1,5 @@
 
-## Looking for ways to integrate the [Rapyd API](https://rapyd.net) into your project? Here are some samples that can help you get started. 
+## Looking for ways to integrate the [Rapyd API](https://rapyd.net) into your project? <br>  Here are some samples that can help you get started. 
 
 <img alt="Discourse users" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.rapyd.net"> ![Discord](https://img.shields.io/discord/930903327024238622) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rapyddevs?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzqD46wVaSACHkUcB3eCjLg) 
