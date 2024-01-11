@@ -8,7 +8,7 @@
 ![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
 
 ## 🚀 API Keys
-Sign up at the [Rapyd Client Portal](https://dashboard.rapyd.net) to get your sandbox [API Keys](https://dashboard.rapyd.net/sign-up).
+Sign up at the [Rapyd Client Portal](https://dashboard.rapyd.net) to get your sandbox API Keys.
  
 ## 📖 Documentation
 Explore our curated collection of links, providing easy access to a range of detailed and user-friendly documentation pages for developers.
