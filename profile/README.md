@@ -4,7 +4,7 @@
 <img alt="Discourse users" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.rapyd.net"> ![Discord](https://img.shields.io/discord/930903327024238622) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rapyddevs?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzqD46wVaSACHkUcB3eCjLg) 
 
-![Github Light](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-dk%402x.png#gh-light-mode-only)
+![Github Light](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light@2x.png#gh-light-mode-only)
 ![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
 
 ## 🚀 API Keys
