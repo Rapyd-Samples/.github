@@ -12,7 +12,7 @@
 
  ⭐️ [API Keys](https://dashboard.rapyd.net/sign-up)<br>
  ⭐️ [API Reference](https://docs.rapyd.net/en/api-reference.html)<br>
- ⭐️ [Get Started Guide](https://docs.rapyd.net/build-with-rapyd/docs](https://docs.rapyd.net/en/index-en.html))<br>
+ ⭐️ [Get Started Guide](https://docs.rapyd.net/en/get-started.html)<br>
  ⭐️ [OpenAPI Spec - Postman](https://www.postman.com/rapyd-dev)<br>
  ⭐️ [OpenAPI Spec - Github](https://github.com/Rapyd-Samples/RapydOpenAPI)<br>
  ⭐️ [Postman Collection - Collect API](https://app.getpostman.com/run-collection/da7a791364dd5ca5520a?utm_source=postman&utm_medium=cpc&utm_campaign=collection-use#?env[Rapyd%20Sandbox%20Environment]=W3sia2V5IjoicmFweWRfYWNjZXNzX2tleSIsInZhbHVlIjoiPGVudGVyIGFjY2VzcyBrZXkgaGVyZT4iLCJlbmFibGVkIjp0cnVlfSx7ImtleSI6InJhcHlkX3NlY3JldF9rZXkiLCJ2YWx1ZSI6IjxlbnRlciBzZWNyZXQga2V5IGhlcmU+IiwiZW5hYmxlZCI6dHJ1ZX0seyJrZXkiOiJiYXNlX3VyaSIsInZhbHVlIjoiaHR0cHM6Ly9zYW5kYm94YXBpLnJhcHlkLm5ldC92MSIsImVuYWJsZWQiOnRydWV9XQ==)<br>
