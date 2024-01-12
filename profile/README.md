@@ -26,7 +26,7 @@ Discover our carefully selected array of resources, offering a variety of inform
 * [Community Forums](https://community.rapyd.net)<br>
 * [Developer Articles](https://community.rapyd.net/c/events/articles)
 * [Discord Server](https://discord.rapyd.com)<br>
-* [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)<br>
+* [Developer YouTube Channel](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)<br>
 * [Developer Newsletter Archive](https://dev.to/t/rapydnews)<br>
 * [Become a Rapyd Developer Partner](https://www.rapyd.net/company/partners/developer-partner-program/)
 
