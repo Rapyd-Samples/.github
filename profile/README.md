@@ -14,15 +14,14 @@ Sign up at the [Rapyd Client Portal](https://dashboard.rapyd.net) to get your sa
 Explore our curated collection of links, providing easy access to a range of detailed and user-friendly documentation pages for developers.
 
  * [API Reference](https://docs.rapyd.net/en/api-reference.html)<br>
- * [Documentation](https://docs.rapyd.net/en/index-en.html)<br>
  * [Get Started Guide](https://docs.rapyd.net/en/get-started.html)<br>
 
 ## 🛠️ Developer Tools
 Check out our assortment of developer tools, designed to streamline your coding process and enhance your development projects.
 
- * [OpenAPI Spec - Postman](https://www.postman.com/rapyd-dev)<br>
- * [OpenAPI Spec - Github](https://github.com/Rapyd-Samples/RapydOpenAPI)<br>
- * [Postman Collection - Collect API](https://app.getpostman.com/run-collection/da7a791364dd5ca5520a?utm_source=postman&utm_medium=cpc&utm_campaign=collection-use#?env[Rapyd%20Sandbox%20Environment]=W3sia2V5IjoicmFweWRfYWNjZXNzX2tleSIsInZhbHVlIjoiPGVudGVyIGFjY2VzcyBrZXkgaGVyZT4iLCJlbmFibGVkIjp0cnVlfSx7ImtleSI6InJhcHlkX3NlY3JldF9rZXkiLCJ2YWx1ZSI6IjxlbnRlciBzZWNyZXQga2V5IGhlcmU+IiwiZW5hYmxlZCI6dHJ1ZX0seyJrZXkiOiJiYXNlX3VyaSIsInZhbHVlIjoiaHR0cHM6Ly9zYW5kYm94YXBpLnJhcHlkLm5ldC92MSIsImVuYWJsZWQiOnRydWV9XQ==)
+ * [OpenAPI Specification (Postman)](https://www.postman.com/rapyd-dev)<br>
+ * [OpenAPI Specification (Github)](https://github.com/Rapyd-Samples/RapydOpenAPI)<br>
+ * [Collect API (Postman Collection)](https://app.getpostman.com/run-collection/da7a791364dd5ca5520a?utm_source=postman&utm_medium=cpc&utm_campaign=collection-use#?env[Rapyd%20Sandbox%20Environment]=W3sia2V5IjoicmFweWRfYWNjZXNzX2tleSIsInZhbHVlIjoiPGVudGVyIGFjY2VzcyBrZXkgaGVyZT4iLCJlbmFibGVkIjp0cnVlfSx7ImtleSI6InJhcHlkX3NlY3JldF9rZXkiLCJ2YWx1ZSI6IjxlbnRlciBzZWNyZXQga2V5IGhlcmU+IiwiZW5hYmxlZCI6dHJ1ZX0seyJrZXkiOiJiYXNlX3VyaSIsInZhbHVlIjoiaHR0cHM6Ly9zYW5kYm94YXBpLnJhcHlkLm5ldC92MSIsImVuYWJsZWQiOnRydWV9XQ==)
 
 ## 🫶🏼 Resources
 Discover our carefully selected array of resources, offering a variety of informative and practical tools tailored to meet the needs of developers.
@@ -30,7 +29,7 @@ Discover our carefully selected array of resources, offering a variety of inform
 * [Community Forums](https://community.rapyd.net)<br>
 * [Discord Server](https://discord.rapyd.com)<br>
 * [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)<br>
-* [Newsletter Archive](https://dev.to/t/rapydnews)<br>
+* [Developer Newsletter Archive](https://dev.to/t/rapydnews)<br>
 * [Become a Rapyd Developer Partner](https://www.rapyd.net/company/partners/developer-partner-program/)
 
 ## 👩🏻‍💻 Code Samples from Friends
