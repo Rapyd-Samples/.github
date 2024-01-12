@@ -7,11 +7,8 @@
 
 Looking for ways to integrate the [Rapyd API](https://rapyd.net) into your project? Here are some samples that can help you get started. 
 
-## 🚀 API Keys
-Sign up at the [Rapyd Client Portal](https://dashboard.rapyd.net) to get your sandbox API Keys.
- 
 ## 📖 Documentation
-Explore our curated collection of links, providing easy access to a range of detailed and user-friendly documentation pages for developers.
+Explore our curated collection of links, providing easy access to a range of detailed and user-friendly documentation pages for developers. <br>Be sure and sign up at the Rapyd Client Portal to get your sandbox [API Keys](https://dashboard.rapyd.net).
 
  * [API Reference](https://docs.rapyd.net/en/api-reference.html)<br>
  * [Get Started Guide](https://docs.rapyd.net/en/get-started.html)<br>
@@ -27,6 +24,7 @@ Check out our assortment of developer tools, designed to streamline your coding 
 Discover our carefully selected array of resources, offering a variety of informative and practical tools tailored to meet the needs of developers.
 
 * [Community Forums](https://community.rapyd.net)<br>
+* [Developer Articles](https://community.rapyd.net/c/events/articles)
 * [Discord Server](https://discord.rapyd.com)<br>
 * [YouTube Tutorials](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)<br>
 * [Developer Newsletter Archive](https://dev.to/t/rapydnews)<br>
