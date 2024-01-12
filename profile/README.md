@@ -30,6 +30,13 @@ Discover our carefully selected array of resources, offering a variety of inform
 * [Developer Newsletter Archive](https://dev.to/t/rapydnews)<br>
 * [Become a Rapyd Developer Partner](https://www.rapyd.net/company/partners/developer-partner-program/)
 
+## 💻 Notable Repos
+Here is a short list of some reports that might interest you. 
+Name | Note 
+------------ | ------- 
+[Rapyd OpenAPI Spec](https://github.com/Rapyd-Samples/RapydOpenAPI) | The official repository that contains the OpenAPI specification for Rapyd. 
+[Accept Payments](https://github.com/Rapyd-Samples/accept-payments ) | Explore top payment methods to learn how you can build with Rapyd in a single integration, offering customers their preferred local payment features.
+
 ## 👩🏻‍💻 Code Samples from Friends
 A list of repos other developers have created using the Rapyd API. 
 
