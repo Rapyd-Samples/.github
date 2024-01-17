@@ -16,7 +16,7 @@ Explore our curated collection of links, providing easy access to a range of det
 ## 🛠️ Developer Tools
 Check out our assortment of developer tools, designed to streamline your coding process and enhance your development projects.
 
- * [OpenAPI Specification (Postman)](https://www.postman.com/rapyd-dev)<br>
+ * [OpenAPI Collection (Postman)](https://www.postman.com/rapyd-dev)<br>
  * [OpenAPI Specification (Github)](https://github.com/Rapyd-Samples/RapydOpenAPI)<br>
  * [Collect API (Postman Collection)](https://app.getpostman.com/run-collection/da7a791364dd5ca5520a?utm_source=postman&utm_medium=cpc&utm_campaign=collection-use#?env[Rapyd%20Sandbox%20Environment]=W3sia2V5IjoicmFweWRfYWNjZXNzX2tleSIsInZhbHVlIjoiPGVudGVyIGFjY2VzcyBrZXkgaGVyZT4iLCJlbmFibGVkIjp0cnVlfSx7ImtleSI6InJhcHlkX3NlY3JldF9rZXkiLCJ2YWx1ZSI6IjxlbnRlciBzZWNyZXQga2V5IGhlcmU+IiwiZW5hYmxlZCI6dHJ1ZX0seyJrZXkiOiJiYXNlX3VyaSIsInZhbHVlIjoiaHR0cHM6Ly9zYW5kYm94YXBpLnJhcHlkLm5ldC92MSIsImVuYWJsZWQiOnRydWV9XQ==)
 
