@@ -1,6 +1,8 @@
 
-<img alt="Discourse users" src="https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.rapyd.net"> ![Discord](https://img.shields.io/discord/930903327024238622) 
-![Twitter Follow](https://img.shields.io/twitter/follow/rapyddevs?style=social) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzqD46wVaSACHkUcB3eCjLg) 
+<a href='https://community.rapyd.net'><img src='https://img.shields.io/discourse/users?server=https%3A%2F%2Fcommunity.rapyd.net'></a> 
+<a href='https://discord.com/invite/Sq38qzcYHv'>![Discord](https://img.shields.io/discord/930903327024238622)</a> 
+<a href='https://twitter.com/rapyddevs'>![Twitter Follow](https://img.shields.io/twitter/follow/rapyddevs?style=social)</a>
+<a href='https://www.youtube.com/c/RapydDevelopers/'>![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCzqD46wVaSACHkUcB3eCjLg)</a> 
 
 ![Github Light](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-dk%402x.png#gh-light-mode-only)
 ![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
