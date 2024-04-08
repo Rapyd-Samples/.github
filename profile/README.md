@@ -32,6 +32,9 @@ Discover our carefully selected array of resources, offering a variety of inform
 * [Developer Newsletter Archive](https://dev.to/t/rapydnews)<br>
 * [Become a Rapyd Developer Partner](https://www.rapyd.net/company/partners/developer-partner-program/)
 
+## Topics 
+* [Rapyd How To](https://github.com/topics/rapyd-how-to)
+
 ## 💻 Notable Repos
 Here is a short list of some reports that might interest you. 
 Name | Note 
