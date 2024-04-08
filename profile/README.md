@@ -26,7 +26,7 @@ Check out our assortment of developer tools, designed to streamline your coding 
 Discover our carefully selected array of resources, offering a variety of informative and practical tools tailored to meet the needs of developers.
 
 * [Community Forums](https://community.rapyd.net)<br>
-* [Developer Articles](https://community.rapyd.net/c/events/articles)
+* [Developer Blog](https://community.rapyd.net/tag/dev-blog)
 * [Discord Server](https://discord.rapyd.com)<br>
 * [Developer YouTube Channel](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)<br>
 * [Developer Newsletter Archive](https://dev.to/t/rapydnews)<br>
