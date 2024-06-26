@@ -10,20 +10,20 @@
 Looking for ways to integrate the [Rapyd API](https://rapyd.net) into your project? Here are some samples that can help you get started. 
 
 ## 📖 Documentation
-Explore our curated collection of links, providing easy access to a range of detailed and user-friendly documentation pages for developers. <br>Be sure and sign up at the Rapyd Client Portal to get your sandbox [API Keys](https://dashboard.rapyd.net).
+Explore our curated collection of links, providing easy access to a range of detailed and user-friendly documentation pages for developers. <br><br>Be sure to sign up at the Rapyd Client Portal to get your sandbox [API Keys](https://dashboard.rapyd.net).
 
  * [API Reference](https://docs.rapyd.net/en/api-reference.html)<br>
  * [Get Started Guide](https://docs.rapyd.net/en/get-started.html)<br>
 
 ## 🛠️ Developer Tools
-Check out our assortment of developer tools, designed to streamline your coding process and enhance your development projects.
+Check out our assortment of developer tools to streamline your coding process and enhance your development projects.
 
  * [OpenAPI Collection (Postman)](https://www.postman.com/rapyd-dev)<br>
  * [OpenAPI Specification (Github)](https://github.com/Rapyd-Samples/RapydOpenAPI)<br>
  * [Collect API (Postman Collection)](https://app.getpostman.com/run-collection/da7a791364dd5ca5520a?utm_source=postman&utm_medium=cpc&utm_campaign=collection-use#?env[Rapyd%20Sandbox%20Environment]=W3sia2V5IjoicmFweWRfYWNjZXNzX2tleSIsInZhbHVlIjoiPGVudGVyIGFjY2VzcyBrZXkgaGVyZT4iLCJlbmFibGVkIjp0cnVlfSx7ImtleSI6InJhcHlkX3NlY3JldF9rZXkiLCJ2YWx1ZSI6IjxlbnRlciBzZWNyZXQga2V5IGhlcmU+IiwiZW5hYmxlZCI6dHJ1ZX0seyJrZXkiOiJiYXNlX3VyaSIsInZhbHVlIjoiaHR0cHM6Ly9zYW5kYm94YXBpLnJhcHlkLm5ldC92MSIsImVuYWJsZWQiOnRydWV9XQ==)
 
 ## 🫶🏼 Resources
-Discover our carefully selected array of resources, offering a variety of informative and practical tools tailored to meet the needs of developers.
+Discover our carefully selected array of resources, offering a variety of informative and practical tools tailored to developers' needs.
 
 * [Community Forums](https://community.rapyd.net)<br>
 * [Developer Blog](https://community.rapyd.net/tag/dev-blog)
@@ -40,7 +40,7 @@ Here is a short list of some reports that might interest you.
 Name | Note 
 ------------ | ------- 
 [Rapyd OpenAPI Spec](https://github.com/Rapyd-Samples/RapydOpenAPI) | The official repository that contains the OpenAPI specification for Rapyd. 
-[Accept Payments](https://github.com/Rapyd-Samples/accept-payments ) | Explore top payment methods to learn how you can build with Rapyd in a single integration, offering customers their preferred local payment features.
+[Accept Payments](https://github.com/Rapyd-Samples/accept-payments ) | Explore top payment methods to learn how to build with Rapyd in a single integration, offering customers their preferred local payment features.
 
 ## 👩🏻‍💻 Code Samples from Friends
 A list of repos other developers have created using the Rapyd API. 
