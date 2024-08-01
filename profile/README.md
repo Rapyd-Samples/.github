@@ -7,7 +7,7 @@
 ![Github Light](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-dk%402x.png#gh-light-mode-only)
 ![Github Dark](https://github.com/Rapyd-Samples/learning-resources/blob/main/gitjhub-logo-light%402x.png#gh-dark-mode-only)
 
-Looking for ways to integrate the [Rapyd API](https://rapyd.net) into your project? Here are some samples that can help you get started. 
+Looking for ways to integrate the [Rapyd API](https://rapyd.net/developers) into your project? Here are some samples that can help you get started. 
 
 ## 📖 Documentation
 Explore our curated collection of links, providing easy access to a range of detailed and user-friendly documentation pages for developers. <br><br>Be sure to sign up at the Rapyd Client Portal to get your sandbox [API Keys](https://dashboard.rapyd.net).
