@@ -31,7 +31,7 @@ Discover our carefully selected array of resources, offering a variety of inform
 * [Developer YouTube Channel](https://www.youtube.com/channel/UCzqD46wVaSACHkUcB3eCjLg)<br>
 * [Developer Newsletter Archive](https://dev.to/t/rapydnews)<br>
 * [Become a Rapyd Developer Partner](https://www.rapyd.net/company/partners/developer-partner-program/)
-* [Talk to Sales](https://community.rapyd.net/t/what-is-community-rapyd-net/1911)
+* [Talk to Sales](https://www.rapyd.net/contact-developers/)
 
 ## Topics 
 * [Rapyd How To](https://github.com/topics/rapyd-how-to)
