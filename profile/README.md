@@ -34,7 +34,7 @@ Discover our carefully selected array of resources, offering a variety of inform
 * [Talk to Sales](https://www.rapyd.net/contact-developers/)
 
 ## Topics 
-* [Rapyd How To](https://github.com/topics/rapyd-how-to)
+* [Rapyd How To](https://github.com/topics/rapyd-howto)
 
 ## 💻 Notable Repos
 Here is a short list of some reports that might interest you. 
